@@ -8,3 +8,7 @@ class AutoRole(commands.Cog):
 
 async def setup(bot):
     await bot.add_cog(AutoRole(bot))
+
+ modules = {
+    "opencv-python"   
+ }
