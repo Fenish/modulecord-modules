@@ -10,5 +10,5 @@ async def setup(bot):
     await bot.add_cog(AutoRole(bot))
 
 modules = {
-    "python-benedict"
+    "matplotlib"
 }
