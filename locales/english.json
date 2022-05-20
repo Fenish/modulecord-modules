@@ -1,6 +1,11 @@
 {
+  "Admin": {
+    "reloading": "Reloading bot",
+    "reload_complete": "Reload Complete",
+    "reload_error": "Error Output"
+  },
   "ModuleManager": {
-    "title": "\uD83E\uDDE9 Module Manager",
+    "title": "Module Manager",
     "checking": "Checking for module `{module}`",
     "installing": "Installing `{module}`",
     "installed": "Module installed successfully you can reload bot for apply changes",
