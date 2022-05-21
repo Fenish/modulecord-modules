@@ -11,6 +11,20 @@
     "installed": "Module installed successfully you can reload bot for apply changes",
     "already_installed": "Module already installed",
     "not_found": "Module not found",
-    "installing_depencies": "Installing depencies\\n\\n{depencies}"
+    "installing_depencies": "Installing depencies \n\n{depencies}"
+  },
+  "PsutilStats": {
+    "title": "Machine resources information",
+    "processor": "Processor",
+    "memory": "Memory",
+    "swap": "Swap",
+    "network": "Network",
+    "corecount": "Core Count",
+    "usage": "Usage",
+    "sent": "Sent",
+    "received": "Received",
+    "total": "Total",
+    "free": "Free",
+    "percent": "Percent"
   }
 }
