@@ -1,0 +1,33 @@
+{
+  "Admin": {
+    "reloading": "Bot yeniden başlatılıyor",
+    "reload_complete": "Bot yeniden başlatıldı",
+    "reload_error": "Hata Çıktısı"
+  },
+  "ModuleManager": {
+    "title": "Modül Yöneticisi",
+    "checking": "`{module}` Modülü aranıyor",
+    "installing": "`{module}` Yükleniyor",
+    "installed": "Modül başarıyla yüklendi. Değişiklikleri kaydetmek için botu yeniden başlatın",
+    "already_installed": "Bu modül zaten yüklü",
+    "not_found": "Modül bulunamadı",
+    "search_not_found": "Böyle bir modül bulunamadı\n**{prefix}module list** Komutu ile modülleri görüntüleyebilirsiniz",
+    "search_found": "Bu anahtarı içeren **{amount}** tane modül bulundu",
+    "list_description": "Toplam **{amount} tane modül** bulundu\n **{prefix}module install <modül>** Komutu ile modülleri yükleyebilirsiniz",
+    "installing_depencies": "Gereken kütüphaneler yükleniyor\n\n{depencies}"
+  },
+  "PsutilStats": {
+    "title": "Makine Hakkında Bilgiler",
+    "processor": "İşlemci",
+    "memory": "Ram",
+    "swap": "Takas Alanı",
+    "network": "Ağ",
+    "corecount": "Çekirdek Sayısı",
+    "usage": "Kullanım",
+    "sent": "Gönderilen",
+    "received": "Alınan",
+    "total": "Toplam",
+    "free": "Boşta Kalan",
+    "percent": "Yüzde"
+  }
+}
