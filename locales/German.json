@@ -1,0 +1,36 @@
+{
+  "Admin": {
+    "reloading": "Reloading bot",
+    "reload_complete": "Reload Complete",
+    "reload_error": "Error Output"
+  },
+  "ModuleManager": {
+    "title": "Module Manager",
+    "checking": "Checking for module `{module}`",
+    "installing": "Installing `{module}`",
+    "installed": "Module installed successfully you can reload bot for apply changes",
+    "already_installed": "Module already installed",
+    "not_found": "Module not found",
+    "search_not_found": "No module found With this key\nYou can check modules with **{prefix}module list** command",
+    "search_found": "**{amount}** Module has been founded with this key",
+    "list_description": "There is **{amount} Modules** has been founded on repository\n You can install with **{prefix}module install <module>**",
+    "installing_depencies": "Installing depencies \n\n{depencies}"
+  },
+  "PsutilStats": {
+    "title": "Machine resources information",
+    "processor": "Processor",
+    "memory": "Memory",
+    "swap": "Swap",
+    "network": "Network",
+    "corecount": "Core Count",
+    "usage": "Usage",
+    "sent": "Sent",
+    "received": "Received",
+    "total": "Total",
+    "free": "Free",
+    "percent": "Percent"
+  },
+  "AutoRole": {
+    "title": "Auto Role Assignment"
+  }
+}
