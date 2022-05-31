@@ -29,5 +29,8 @@
     "total": "Total",
     "free": "Free",
     "percent": "Percent"
+  },
+  "AutoRole": {
+    "title": "Auto Role Assignment"
   }
 }
