@@ -6,7 +6,7 @@ from discord.ext import commands
 class PsutilStats(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        
+
     @commands.command()
     async def botstats(self, ctx):
         lang = self.bot.locale["PsutilStats"]
