@@ -2,7 +2,6 @@ import psutil
 import discord
 from discord.ext import commands
 
-
 # Name: PsutilStats
 # Author: Pai#0001
 # Description: Shows your machine's resource information powered by psutil
