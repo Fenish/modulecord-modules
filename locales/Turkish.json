@@ -29,5 +29,8 @@
     "total": "Toplam",
     "free": "Boşta Kalan",
     "percent": "Yüzde"
+  },
+  "AutoRole": {
+    "title": "Auto Role Assignment"
   }
 }
